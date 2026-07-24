@@ -1,0 +1,6 @@
+{
+  "name": "olly-api-proxy",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Server-side proxy that keeps AI provider API keys hidden from the Olly app's client-side code."
+}
